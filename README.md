@@ -42,7 +42,7 @@
 - **下载**
 
 ```python
-git clone git@github.com:Light-City/year_code.git
+git clone git@github.com:s1m0nR/code-master.git
 ```
 
 - **使用**
