@@ -47,7 +47,7 @@ git clone git@github.com:Light-City/year_code.git
 
 - **使用**
 
-将代码文件与文件夹放到code_dir，或者修改`static.py`文件里的
+将代码文件与文件夹放到code_dir，或者修改`statistic.py`文件里的
 
 ```python
 dir = './code_dir' # 你的代码文件夹或者代码文件
