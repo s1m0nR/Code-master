@@ -86,8 +86,8 @@ codeSort('总代码量')。
 
 实际代码量排序结果
 
-![](./show_res/sort_data_csv.jpeg)
+![](./show_res/sort_data_csv.JPG)
 
 - 简单统计结果输出
 
-![](show_res/py_static.JPG)
+![](show_res/py_static.jpeg)
